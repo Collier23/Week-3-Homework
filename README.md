@@ -1,7 +1,7 @@
 ## Description
 This webpage is for creating a random password between 8-128 characters using a mixture of characters the user inputs. It was our week 3 project to show the the use of functions and statements to generate a password for the user.
 
-![Screenshot]!(https://user-images.githubusercontent.com/109792980/188073859-de01595b-d1da-4e3d-b9cc-11880bc672e6.png)
+![Screenshot](https://user-images.githubusercontent.com/109792980/188073859-de01595b-d1da-4e3d-b9cc-11880bc672e6.png)
 
 
 ## Usage
